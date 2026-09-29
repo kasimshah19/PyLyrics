@@ -4,6 +4,14 @@
 
 ---
 
+## 📖 The Vibe (About)
+*Because music isn't just heard, it's felt.*
+
+PyLyrics was born out of the love for those late-night coding sessions where the terminal is your only companion, and a song hits just right. It transforms your cold command line into a soulful, synchronized karaoke experience. The lyrics don't just print—they breathe with the audio, fading in and highlighting word by word, exactly as the artist sings them. 
+
+No messy logs, no out-of-sync lines. Just you, your favorite track, and the poetry of music beautifully painted across your terminal.
+
+---
 ## 🌟 Features
 
 - **Master Clock Synchronization**: UI updates are tightly bound to the exact audio position (`pygame.mixer.music.get_pos()`), ensuring 100% accuracy with zero drift over long playback sessions.
